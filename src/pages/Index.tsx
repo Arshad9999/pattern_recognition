@@ -5,7 +5,7 @@ import TopicCard from "@/components/TopicCard";
 import SystemDiagram from "@/components/SystemDiagram";
 import ApplicationCard from "@/components/ApplicationCard";
 import {
-  BookOpen, Layers, Scatter, PieChart, Smartphone,
+  BookOpen, Layers, ScatterChart, PieChart, Smartphone,
   HeartPulse, Shield, MessageSquare, TrendingUp
 } from "lucide-react";
 
