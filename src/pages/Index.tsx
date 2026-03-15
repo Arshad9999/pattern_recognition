@@ -111,7 +111,7 @@ const Index = () => {
           number="03"
           title="Unsupervised Learning & Dimensionality"
           subtitle="Clustering algorithms and dimensionality reduction for unlabeled data."
-          icon={Scatter}
+          icon={ScatterChart}
         />
         
         <div className="grid md:grid-cols-3 gap-5">
